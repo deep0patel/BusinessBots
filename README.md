@@ -8,10 +8,10 @@ It can be used in all the businesses which requires customer support. LLM will o
 
 ## Motivation to build it.
 
-  *Why shouldn't a customer support be a llm ?
-  *why shouldn't customers always talk to the vary same customer representative they have talked to ?
-  *Why shouldn't cusotomer support remember customer's conversation history and understand ?
-  *Why shouldn't customer support understand the actual emotion and need and recommand the best product or service ?
+  * Why shouldn't a customer support be a llm ?
+  * Why shouldn't customers always talk to the vary same customer representative they have talked to ?
+  * Why shouldn't cusotomer support remember customer's conversation history and understand ?
+  * Why shouldn't customer support understand the actual emotion and need and recommand the best product or service ?
   
 
 
